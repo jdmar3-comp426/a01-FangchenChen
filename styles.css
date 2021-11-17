@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+body {
+    background-color: antiquewhite;
+    color:burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+}
+div h1 {
+    text-align: center;
+    font-size: 2em;
+    color: #090;
+    margin-bottom: .2em;
+}
+.header {
+    text-align: center;
+    font-size: 1em;
+    background-color: #99FF11;
+    margin-bottom: .2em;
+    text-decoration: underline;
+=======
+body {
+    background-color: antiquewhite;
+    color:burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+}
+div h1 {
+    text-align: center;
+    font-size: 2em;
+    color: #090;
+    margin-bottom: .2em;
+}
+.header {
+    text-align: center;
+    font-size: 1em;
+    background-color: #99FF11;
+    margin-bottom: .2em;
+    text-decoration: underline;
+>>>>>>> 202b5a3226922723a8480f4709c9d0430c380177
+}
